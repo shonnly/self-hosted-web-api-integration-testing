@@ -1,0 +1,8 @@
+C:\Dev\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Dev\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Dev\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Dev\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Dev\GitHub - Shonn Lyga\self-hosted-web-api-integration-testing\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Dev\GitHub - Shonn Lyga\self-hosted-web-api-integration-testing\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Dev\GitHub - Shonn Lyga\self-hosted-web-api-integration-testing\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Dev\GitHub - Shonn Lyga\self-hosted-web-api-integration-testing\ServiceLayer\obj\Debug\ServiceLayer.pdb

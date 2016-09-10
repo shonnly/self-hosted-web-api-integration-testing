@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLayer", "WebLayer\WebLayer.csproj", "{C4A30649-3847-4D71-AD45-3DD2EBB53271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTesting", "IntegrationTesting\IntegrationTesting.csproj", "{6F116D3C-0036-43A5-B9DD-3CB2885EAB8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{CD36A74C-BC9F-4DC8-ADFE-9D6EE6B4DE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4A30649-3847-4D71-AD45-3DD2EBB53271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A30649-3847-4D71-AD45-3DD2EBB53271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A30649-3847-4D71-AD45-3DD2EBB53271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A30649-3847-4D71-AD45-3DD2EBB53271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F116D3C-0036-43A5-B9DD-3CB2885EAB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F116D3C-0036-43A5-B9DD-3CB2885EAB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F116D3C-0036-43A5-B9DD-3CB2885EAB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F116D3C-0036-43A5-B9DD-3CB2885EAB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD36A74C-BC9F-4DC8-ADFE-9D6EE6B4DE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD36A74C-BC9F-4DC8-ADFE-9D6EE6B4DE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD36A74C-BC9F-4DC8-ADFE-9D6EE6B4DE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD36A74C-BC9F-4DC8-ADFE-9D6EE6B4DE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
